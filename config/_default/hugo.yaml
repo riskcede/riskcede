@@ -1,0 +1,4 @@
+theme: gohugo-theme-ananke
+module:
+  hugoVersion:
+    min: 0.128.0
